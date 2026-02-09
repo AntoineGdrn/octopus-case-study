@@ -1,1 +1,1 @@
-# octopus-case-study
+# Octopus Case Study
